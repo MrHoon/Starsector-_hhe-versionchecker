@@ -1,11 +1,11 @@
 {
-    "masterVersionFile": "https://github.com/MrHoon/Starsector-_hhe-versionchecker/blob/master/_HHE_checker.version",
-    "modName": "HHE: Fighter Expansion",
-    "modThreadId": 18074,
+    "masterVersionFile":"https://github.com/MrHoon/Starsector-_hhe-versionchecker/blob/master/_HHE_checker.version",
+    "modName":"HHE: Fighter Expansion",
+    "modThreadId":18074,
     "modVersion":
     {
-        "major": 1,
-        "minor": 0,
-        "patch": 0
+        "major":1,
+        "minor":0,
+        "patch":0
     },
 }
